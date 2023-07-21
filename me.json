@@ -1,0 +1,10 @@
+{
+    "name":{
+        "first":"wind",
+        "last":"free"
+    },
+    "fromWisconsin":false,
+    "numCredits":18,
+    "major":"Computer Science",
+    "interests":["history", "badminton"]
+}
